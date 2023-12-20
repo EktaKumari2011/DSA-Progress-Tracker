@@ -1,7 +1,3 @@
-Certainly! Here's an example description for your DSA progress repository:
-
----
-
 # DSA Progress Tracker
 
 ## Learning Data Structures and Algorithms with Love Babbar's Course
